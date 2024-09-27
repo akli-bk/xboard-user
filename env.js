@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: 'Unboundly',
   // 站点描述
-  description: 'Xboard',
+  description: 'Freedom without limits!',
   assets_path: '/assets',
   // 主题色
   theme: {
